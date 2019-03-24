@@ -16,3 +16,5 @@ Nihongo (Japanese) intermediate level (JLPT N3).
 
 It’s great connecting with you.
 Yoroshiku!!
+
+#やれば出来る子。
