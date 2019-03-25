@@ -1,6 +1,6 @@
 # hello-world
 
-Hello Za Warudo!!!
+Salam!!!
 
 Avicenna El-Qudsy des.
 
