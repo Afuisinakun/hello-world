@@ -11,8 +11,8 @@ Currently able to speak 5 different languages, each with different level of mast
 Bahasa Indonesia native level.
 Basa Jawa slightly below native level.
 English beginner-intermediate level.
-Al-lughoh al-'Arabiyah (Arabic) beginner-intermidiate level.
-Nihongo (Japanese) intermediate level (JLPT N3).
+اللغة العربية (Arabic) beginner-intermidiate level.
+日本語 (Japanese) intermediate level (JLPT N3).
 
 It’s great connecting with you.
 Yoroshiku!!
